@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me:
--    mail:muradlikamil32@gmail.com
+          mail:muradlikamil32@gmail.com
   
 
 <!---
